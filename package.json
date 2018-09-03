@@ -8,6 +8,7 @@
   "description": "TimSort: Fast Sorting for Node.js",
   "homepage": "https://github.com/mziccard/node-timsort",
   "main": "index.js",
+  "types": "index.d.ts",
   "directories": {
     "test": "./test",
     "benchmark": "./benchmark"
